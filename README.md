@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biruk Tesfaye</h1>
 <h3 align="center">A passionate web/mobile app developer and network technician from Ethiopia.</h3>
 
-- 🔭 I’m currently working on **becoming a Cisco Certified Network Associate**
-
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **it.biruk.tesfaye2913@gmail.com**
