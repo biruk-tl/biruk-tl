@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biruk Tesfaye</h1>
-<h3 align="center">A passionate web/mobile app developer and network technician from Ethiopia.</h3>
+<h3 align="center">A passionate web/mobile app developer and a QA engineer.</h3>
 
 - 🌱 I’m currently learning **React Native**
 
