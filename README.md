@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🔭 I’m a Software Engineer<br> 💬 Let's connect and talk about any tech-related stuff <br>📫 How to reach me: contact@biruk.dev</p>
+<p align="left">🔭 I’m a Software Engineer<br> 💬 Let's connect and talk about any tech-related stuff <br>📫 How to reach me: <a href="mailto:contact@biruk.dev" style="color: #007acc; text-decoration: none; font-weight: bold;">contact@biruk.dev</a></p>
 
 
 ###
