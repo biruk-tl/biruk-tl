@@ -6,11 +6,6 @@
 
 <p align="left">🔭 I’m a Software Engineer<br> 💬 Let's connect and talk about any tech-related stuff <br>📫 How to reach me: contact@biruk.dev</p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/biruk-tl/count.svg?"  />
-</div>
 
 ###
 
